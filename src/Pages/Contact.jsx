@@ -8,7 +8,7 @@ function Contact() {
         <Navbar />
         <div className="px-5 mt-5 pl-5 md:px-40">
           <h1 className="text-2xl text-red-600 font-bold mb-3">Bestbite</h1>
-          <p>Email us with any questions or inquires or call 518-873-9371. We would be happy to answer your questions and set up a meeting with you. Black Sheep Web design can help you apart from the flock!
+          <p>Email us with any questions or inquires or call 518-873-9361. We would be happy to answer your questions and set up a meeting with you. Black Sheep Web design can help you apart from the flock!
           </p>
             <br />
             <h1 className="font-semibold text-lg mb-5">LOCATE US TODAY</h1>
