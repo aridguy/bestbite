@@ -13,7 +13,7 @@ function Contact() {
             <br />
             <h1 className="font-semibold text-lg mb-5">LOCATE US TODAY</h1>
             <div className="mb-5 md:justify-center flex items-center">
-              <img className="md:w-1/2" src={Map} alt="map" />
+              <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1110.9328906696633!2d3.9625187647478537!3d7.457270791391303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1039ecf3e6eea7bd%3A0xf1d6ae272af91f44!2sSide%20Hustle!5e1!3m2!1sen!2sng!4v1650897960972!5m2!1sen!2sng' width="100%" height="450"></iframe>
             </div>
             <div class="block p-6 rounded-lg shadow-lg bg-white mb-10 mt-15">
         <form className="">
