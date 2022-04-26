@@ -3,13 +3,10 @@ import Footer from '../Components/Footer';
 import Navbar from "../Components/Navbar";
 import "./Contacts.css"
 
-
-
 function Contact() {
   return (
     <div>
       <Navbar />
-
       <div className='container-fluid'>
         <div className='row'>
           <div className='col-md-12 col-sm-12'>

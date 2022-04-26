@@ -7,6 +7,7 @@ footer{
     color: white;
     display: inline-flex;
     margin-top: 10px;
+    padding: 7px;
 }
 
 .home-foot, .cart-footer{
