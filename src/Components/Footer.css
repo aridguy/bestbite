@@ -1,0 +1,28 @@
+footer{
+    background-color: rgb(212, 22, 22);
+    width: 70%;
+    position: fixed;
+    bottom: 0px;
+    margin-left: 15%;
+    color: white;
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+.home-foot, .cart-footer{
+    cursor: pointer;
+    margin-left: 30%;
+    
+}
+
+/* for the product page uses a separete footer and here is the css  */
+.foot-product{
+    background-color: rgb(212, 22, 22);
+    width: 70%;
+    position: relative;
+    bottom: 0px;
+    margin-left: 15%;
+    color: white;
+    display: inline-flex;
+    margin-top: 10px;
+}
