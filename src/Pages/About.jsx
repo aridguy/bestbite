@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from "../Components/Navbar";
+import Footer from '../Components/Footer';
 
 function About() {
   return (
@@ -14,6 +15,7 @@ Founded in April of 2022 and based remotely in Nigeria. Best Bite is a trusted f
 
           </h1>
         </div>
+        <Footer />
     </div>
   )
 }
