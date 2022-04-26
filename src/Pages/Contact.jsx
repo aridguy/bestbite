@@ -2,32 +2,17 @@ import React from 'react';
 import Footer from '../Components/Footer';
 import Navbar from "../Components/Navbar";
 
-
-
 function Contact() {
   return (
     <div>
       <Navbar />
       <div className="px-5 mt-5 pl-5 md:px-40">
-        <h1 className="text-2xl text-red-600 font-bold mb-3" align="center">Bestbite</h1>
-        <p>Bestbite is is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african dishes and continental dishes. It is the world's second-largest restaurant chain after McDonald's,
-          with 45,621 locations globally in 150 countries as of December 2021. The chain is a subsidiary of SweetBite Restaurant. Bestbite has over 50 thausand workers globally.</p>
-        <br />
-        <div className=' m-10 grid grid-cols-2 gap-3'>
-          <div className='text-red-700' align="justify">Our mission is to leverage our experience and expertise to build the best restaurant on
-            the planet and create the best taste like never before, also build relationships with
-            every single customers.</div>
-          <div className=''> 
-          </div>
-          <div className=''>
-          the planet and create the best taste like never before, also build relationships with
-            every single customers.
-          </div>
-        </div>
-
+        <h1 className="text-2xl text-red-600 font-bold mb-3">Bestbite</h1>
+        <p className="mb-7">Bestbite is is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african dishes and continental dishes. It is the world's second-largest restaurant chain after McDonald's,
+          with 45,621 locations globally in 150 countries as of December 2021. The chain is a subsidiary of SweetBite Restaurant. Bestbite has over 50 thausand workers globally. Our mission is to leverage our experience and expertise to build the best restaurant on the planet and create the best taste like never before, also build relationships with every single customers.</p>
         <h1 className="font-semibold text-lg mb-13 mt-30">LOCATE US TODAY</h1>
         <div className="mb-5 md:justify-center flex items-center">
-          <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1110.9328906696633!2d3.9625187647478537!3d7.457270791391303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1039ecf3e6eea7bd%3A0xf1d6ae272af91f44!2sSide%20Hustle!5e1!3m2!1sen!2sng!4v1650897960972!5m2!1sen!2sng' width="100%" height="450"></iframe>
+          <iframe className="mt-7" src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1110.9328906696633!2d3.9625187647478537!3d7.457270791391303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1039ecf3e6eea7bd%3A0xf1d6ae272af91f44!2sSide%20Hustle!5e1!3m2!1sen!2sng!4v1650897960972!5m2!1sen!2sng' width="100%" height="450"></iframe>
         </div>
         <div class="block p-6 rounded-lg shadow-lg bg-white mb-10 mt-15 my-9">
           <form className="">
