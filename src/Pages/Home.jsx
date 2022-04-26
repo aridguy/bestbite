@@ -24,7 +24,7 @@ function Home() {
                 <h1 className="text-4xl font-semibold text-red-600 tracking-wider leading-relaxed mt-24 pl-20">"The people who give<br /> you their food give you<br /> their heart."</h1>
             </div>
             <div>
-                <img className="mt-20 ml-24 rounded-full" src={images} alt="Hero Image" />
+                <img width="405" className="mt-20 ml-24 rounded-full" src={images} alt="Hero Image" />
             </div>
         </div>
         </div>
