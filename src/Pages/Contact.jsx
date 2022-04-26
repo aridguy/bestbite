@@ -8,7 +8,7 @@ function Contact() {
       <Navbar />
       <div className="px-5 mt-5 pl-5 md:px-40">
         <h1 className="text-2xl text-red-600 font-bold mb-3">Bestbite</h1>
-        <p className="mb-7">Bestbite is is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african dishes and continental dishes. It is the world's second-largest restaurant chain after McDonald's,
+        <p className="mb-7">Bestbite is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african dishes and continental dishes. It is the world's second-largest restaurant chain after McDonald's,
           with 45,621 locations globally in 150 countries as of December 2021. The chain is a subsidiary of SweetBite Restaurant. Bestbite has over 50 thausand workers globally. Our mission is to leverage our experience and expertise to build the best restaurant on the planet and create the best taste like never before, also build relationships with every single customers.</p>
         <h1 className="font-semibold text-lg mb-13 mt-30">LOCATE US TODAY</h1>
         <div className="mb-5 md:justify-center flex items-center">
