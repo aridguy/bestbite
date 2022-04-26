@@ -1,0 +1,35 @@
+
+
+.contactTitle {
+    font-size: 40px;
+    margin-top: 34px;
+    text-transform: uppercase;
+    color: rgb(212, 22, 22);;
+    
+}
+
+.row2{
+    margin-top: 90px;
+}
+
+.location-text{
+margin-bottom: 20px;
+font-size: 15px;
+text-align: center;
+}
+
+.contact-title2{
+    color: rgb(212, 22, 22);;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    font-weight: bolder;
+}
+
+.small-line{
+    width: 30%;
+    border-color: brown;
+    margin-top: 8px;
+    border: 5px thin rgb(35, 196, 142);
+    
+}
