@@ -72,7 +72,6 @@ function Contact() {
               <span>
                 you can also visit our website at <b><i>www.bestbite.com.ng</i>our website is open to everyone and all orders can be placed from the website</b>
               </span>
-
             </div>
           </div>
           <div className='col-md-4'>
