@@ -1,0 +1,61 @@
+
+.bg-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../assets/images/home-images/bg-home.jpg);
+    height: 45rem;
+}
+
+.htitle1{
+    color: red;
+}
+
+.landing-page-content{
+    font-size: 66px;
+    color: white;
+    margin-top: 16rem;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif serif;
+    text-align: center;
+}
+
+.btns{
+    margin-left: 45%;
+    width: 15rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #dc2626;
+    width: 20rem;
+    margin-left: -100px;
+    border: none;
+    margin-top: 20px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #dc2626;
+    width: 20rem;
+    margin-left: -100px;
+    border: none;
+}
+.btn-primary:focus{
+    color: #fff;
+    background-color: #dc2626;
+    width: 20rem;
+    margin-left: -100px;
+    box-shadow: none;
+    border: none;
+}
+.brandname{
+    color: rgb(238, 26, 26);
+}
+
+.landp-c2{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: Ballpark;
+    text-align: center;
+}

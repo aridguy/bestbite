@@ -1,0 +1,25 @@
+.food2{
+    width: 20px;
+}
+
+.product-page-title{
+    text-align: center;
+    font-size: 35PX;
+    color: rgb(202, 24, 24);
+    text-transform: uppercase;
+    margin-top: 10rem;
+    margin-bottom: 7rem;
+    
+}
+
+.ppt-sub{
+    text-align: center;
+    columns: rgb(221, 13, 13);
+    margin-top: -7rem;
+    margin-right: 5px;
+    position:absolute;
+}
+
+body{
+    overflow-x: hidden;
+}

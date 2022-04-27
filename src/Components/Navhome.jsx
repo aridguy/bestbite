@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import ".navs.css";
 
-
-function Navbar() {
+function Navhome() {
   return (
     <nav className="shadow-lg mainnav">
         <div className="font-bold text-3xl p-2 ml-2"><h1>Bestbite</h1></div>
@@ -16,4 +16,4 @@ function Navbar() {
   )
 }
 
-export default Navbar;
+export default Navhome;
