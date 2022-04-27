@@ -7,11 +7,11 @@ function Contact() {
   return (
     <div>
       <Navbar />
-      <div className='container-fluid'>
+      <div className='container-fluid px-5'>
         <div className='row'>
           <div className='col-md-12 col-sm-12'>
-            <h1 className="" align="center"><h1 className='contactTitle'>Bestbite</h1></h1>
-            <div align="center"><span className='location-text' align="center">See our actual location in nigeria, our representatives all online 24/7 and ready to take your orders and enquries</span></div>
+            <h1 className='contactTitle'align="center">Bestbite</h1>
+            <div align="center"><span className='location-text' align="center">See our actual location in Nigeria, our representatives all online 24/7 and ready to take your orders and enquries</span></div>
             <p align="center"> <hr className='small-line' /></p>
           </div>
         </div>
@@ -19,26 +19,21 @@ function Contact() {
           <div className='col-md-4'>
             <div>
               <p className='content1'>
-                Bestbite is is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african
-                dishes and continental dishes.
+                Bestbite is a Nigerian restaurant chain headquartered in Abuja, Nigeria's Capital City, that specializes in African dishes and inter-continental dishes.
               </p>
-
               <p className='content2'>
-                It is the world's second-largest restaurant chain after McDonald's,
-                with 45,621 locations globally in 150 countries as of December 2021.
+                It is the world's second-largest restaurant chain after McDonald's, with 45,621 locations globally in 150 countries as of December 2021.
               </p> <br />
               <p className='content3'>
                 info@bestbite.com.ng
               </p> <br />
               <p className='content3'>
                 The chain is a subsidiary of SweetBite
-                Restaurant. Bestbite has over 50 thausand workers globally.
-              </p> <br />
-              <p className='content3'>
-                <b>Get in touch.</b> <br />
+                Restaurant. Bestbite has over 50 thausand workers globally.</p> <br />
+              <p className='content3'> 
+                <b>Get in touch</b> <br />
                 Curious about something? We're here to help.
-
-                We do our best to respond to emails within 48 hours (and are even faster on Instagram).
+                We do our best to respond to emails and our Live chat feature on the webpage, within 48 hours (and are even faster on Instagram).
               </p> <br />
               <p className='content4'>
                 <button className='my-8
@@ -66,11 +61,11 @@ function Contact() {
 
             <div>
               <iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1110.9328906696633!2d3.9625187647478537!3d7.457270791391303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1039ecf3e6eea7bd%3A0xf1d6ae272af91f44!2sSide%20Hustle!5e1!3m2!1sen!2sng!4v1650897960972!5m2!1sen!2sng' width="100%" height="350"></iframe>
-              <p>E-mail: BestBite@gmail.com <br />
-                Phone number: +234 000 000 0000
-                etc</p>
+              <br />
+              <p>E-mail: bestbite@gmail.com <br />
+                Phone number: +234 80 000 0000</p>
               <span>
-                you can also visit our website at <b><i>www.bestbite.com.ng</i>our website is open to everyone and all orders can be placed from the website</b>
+                You can also visit our website at <b><i>https://bestbitee.netlify.app/</i></b> our website is open to everyone and all orders can be placed from the website.
               </span>
             </div>
           </div>
