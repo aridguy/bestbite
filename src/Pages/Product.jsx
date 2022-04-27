@@ -29,15 +29,10 @@ function Products() {
           </div>
           <div className='row'>
             <div className='ppt-sub'>
-              <div><marquee behavior="slide" direction="">Bestbite is is a Nigerian restaurant chain headquartered in Abuja Nigeria Capital City, that specializes in african dishes and continental dishes.
-                It is the world's second-largest restaurant chain after McDonald's, with 45,621 locations globally in 150 countries as of December 2021.
-                info@bestbite.com.ng
-                The chain is a subsidiary of SweetBite Restaurant. Bestbite has over 50 thausand workers globally.
-                Get in touch.
-                Curious about something? We're here to help. We do our best to respond to emails within 48 hours (and are even faster on Instagram).</marquee></div>
+
             </div>
 
-            <div className='col-md-4'>
+            <div className='col-md-4 pt-1'>
               <div>
 
                 <div className=""></div>

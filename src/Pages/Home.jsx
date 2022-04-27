@@ -3,7 +3,8 @@ import Navhome from "../Components/Navbar";
 import images from "../images/Hero.jpeg";
 import Footer from '../Components/Footer';
 import "./Homes.css";
-import bootstrap from 'bootstrap';
+// import bootstrap from 'bootstrap';
+import { Link } from "react-router-dom";
 
 function Home() {
     return (
@@ -19,7 +20,7 @@ function Home() {
                             </div>
                             <div><p className='landp-c2'>Delivering great food for more than 18 years!</p></div>
                             <div className='btns'>
-                                <button className='btn btn-primary'>See Our Menu</button>
+                                <Link to="/products"><button className='btn btn-primary '>See Our Menu</button></Link>
                                 
                             </div>
                         </div>
