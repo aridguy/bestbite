@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
     return (
-        <div className="">
+        <div className="mb-5">
             <Navhome />
             <div class="bg-image ">
                 <div className='container-fluid'>
