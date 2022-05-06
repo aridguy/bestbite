@@ -21,13 +21,13 @@ function Home() {
                             <div><p className='landp-c2'>Delivering great food for more than 18 years!</p></div>
                             <div className='btns'>
                                 <Link to="/products"><button className='btn btn-primary '>See Our Menu</button></Link>
-                                
                             </div>
                         </div>
                         <div className='col-md-1'></div>
                     </div>
                 </div>
             </div>
+            
             {/* something was here */}
             <Footer />
         </div>
