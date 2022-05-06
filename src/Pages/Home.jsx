@@ -1,9 +1,8 @@
 import React from 'react';
 import Navhome from "../Components/Navbar";
-import images from "../images/Hero.jpeg";
 import Footer from '../Components/Footer';
 import "./Homes.css";
-// import bootstrap from 'bootstrap';
+
 import { Link } from "react-router-dom";
 
 function Home() {

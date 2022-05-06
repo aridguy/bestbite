@@ -4,11 +4,10 @@ import Card from "../Components/Card";
 import images from "../images/Icecream.jpeg";
 import image from "../image/Product1.jpeg";
 import Picture from "../Picture/Rice.jpeg";
-import Drink from "../Drink/drinks.jpeg";
-import mega from "../mega/Eba & soup.jpeg";
+
 import "./productcss.css";
 import FooterProduct from '../Components/FooterProduct';
-import Fav from "./Favicon.png";
+
 
 function Products() {
   return (
